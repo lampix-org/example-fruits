@@ -1,11 +1,11 @@
 {
-  "name": "lampix-app-starter",
-  "displayName": "Lampix App Starter",
-  "version": "1.1.0",
-  "description": "Boilerplate for starting Lampix apps",
+  "name": "example-fruits",
+  "displayName": "Fruits example",
+  "version": "1.0.0",
+  "description": "Example showcasing NNClassifier and MBS",
   "author": {
-    "email": "your@email.com",
-    "name": "Your name"
+    "email": "dbalaban@lampix.co",
+    "name": "Dan Balaban"
   },
   "lampixConfig": {
     "lampixVersion": ">= 2.0.0",
