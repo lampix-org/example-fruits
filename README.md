@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-git clone git@github.com:lampix-org/example-fruits.git
+git clone https://github.com/lampix-org/example-fruits.git
 cd example-fruits
 npm install
 npm start
