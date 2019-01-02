@@ -1,5 +1,9 @@
 # NNC & MBS example: fruits
 
+**IMPORTANT**: This example simply showcases the steps building an app, but it is meant to run only in the simulator, as **fruits** is not a neural network we currently provide. 
+
+It will be provided in the future, with oranges, lemons and limes at first, and the app adjusted to take into account the varying sizes of the physical elements. Right now, the size isn't taken into consideration.
+
 ## Installation
 
 ```sh
